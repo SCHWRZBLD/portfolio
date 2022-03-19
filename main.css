@@ -71,7 +71,9 @@ padding:3em;
 
 /*////////////*/
 
-
+.projetos a{
+    color: black;
+}
 .projetos h2{
     color: #A046E4;
     letter-spacing: 0.1em;
@@ -99,7 +101,10 @@ margin:2em;
 }
 
 /*////////////*/
-
+.sobre h2{
+    color: #A046E4;
+    margin-bottom: 2em ;
+}
 .sobre{
     
     margin-top: 2em;
@@ -123,6 +128,7 @@ margin:2em;
 }
 .contato h2{
     color:white;
+    text-align: center;
     
 }
 
