@@ -9,8 +9,8 @@ header{
     
     background-color: #7837AA;
     display: flex;
-    justify-content: space-between;
-    padding: 1em;
+    justify-content: space-evenly;
+    padding: 0.5em;
     
 }
 .logo {
@@ -18,7 +18,8 @@ header{
     font-weight:700;
 }
 .navigation a{
-    margin: 0 0.5em;
+    margin: 0 0.3em;
+    
 }
 
  a{
@@ -64,7 +65,9 @@ padding:3em;
     background-color: #7837AA;
     
 }
-
+.hero button a{
+    color: black;
+}
 .hero img{
     display:none;
 }
