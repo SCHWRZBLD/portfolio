@@ -207,10 +207,11 @@ footer span{
 header{
 font-size: 18px;
     padding: 1em;
+    justify-content: space-between;
 }
 
 .logo{
-    padding-left: 10.5em;
+    padding-left: 11.2em;
 }
 
 .navigation{
